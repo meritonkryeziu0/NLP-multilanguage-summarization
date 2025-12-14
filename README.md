@@ -383,7 +383,15 @@ Verkehrsminister fordern ein besseres Baustellenmanagement, um die Geduld der Fa
 
     ("DE", """Der Trend zu sogenannten Balkonkraftwerken boomt, da immer mehr Mieter ihren eigenen Solarstrom produzieren wollen.
 Vereinfachte bürokratische Regeln und sinkende Preise für Solarmodule haben die Nachfrage sprunghaft ansteigen lassen.
-Energieexperten sehen darin einen wichtigen, wenn auch kleinen, Baustein für die Energiewende in privaten Haushalten.""")
+Energieexperten sehen darin einen wichtigen, wenn auch kleinen, Baustein für die Energiewende in privaten Haushalten."""),
+
+    ("FR", """Les viticulteurs du sud de la France font face à des vendanges de plus en plus précoces en raison du réchauffement climatique.
+La chaleur intense modifie le taux de sucre et l'acidité du raisin, obligeant les producteurs à adapter leurs techniques de vinification.
+Certains envisagent même de planter de nouvelles variétés de cépages plus résistantes à la sécheresse."""),
+
+    ("DE", """Archäologen haben in Bayern ein gut erhaltenes Schwert aus der Bronzezeit entdeckt, das über 3000 Jahre alt ist.
+Der Fund gilt als Sensation, da die Waffe noch ihren metallischen Glanz besitzt und reich verziert ist.
+Historiker erhoffen sich dadurch neue Erkenntnisse über die Handwerkskunst und Handelsbeziehungen der damaligen Zeit."""),
 
 ]
 
@@ -492,4 +500,20 @@ Vereinfachte bürokratische Regeln und sinkende Preise für Solarmodule haben di
 Energieexperten sehen darin einen wichtigen, wenn auch kleinen, Baustein für die Energiewende in privaten Haushalten.
 SUMMARY: Ansteigen lassen. Energieexperten sehen darin einen wichtigen Baustein für die Energiewende in privaten Haushalten.
 
+```
+
+### Rastet e gabimit ne permbledhje
+
+```
+[FR]
+DOCUMENT: Les viticulteurs du sud de la France font face à des vendanges de plus en plus précoces en raison du réchauffement climatique.
+La chaleur intense modifie le taux de sucre et l'acidité du raisin, obligeant les producteurs à adapter leurs techniques de vinification.
+Certains envisagent même de planter de nouvelles variétés de cépages plus résistantes à la sécheresse.
+SUMMARY: À l'acidité des raisins. - L'agriculture a diminué.
+
+[DE]
+DOCUMENT: Archäologen haben in Bayern ein gut erhaltenes Schwert aus der Bronzezeit entdeckt, das über 3000 Jahre alt ist.
+Der Fund gilt als Sensation, da die Waffe noch ihren metallischen Glanz besitzt und reich verziert ist.
+Historiker erhoffen sich dadurch neue Erkenntnisse über die Handwerkskunst und Handelsbeziehungen der damaligen Zeit.
+SUMMARY: In Bayern entdeckt.. - summarize - Sensation aus der Bronzezeit
 ```
